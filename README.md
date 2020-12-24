@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 **백엔드: Python, Django**
   - REST API 백엔드 서버 구축
   - Python Django 기반의 CRUD 기능의 구현
-  - Pythoon openCV를 활용한 이미지 프로세싱
+  - Python openCV를 활용한 이미지 프로세싱
 
 **데이터: Python**
   - Beautifulsoup4를 활용한 데이터 크롤링
