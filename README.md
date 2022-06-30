@@ -17,6 +17,25 @@ Here are some ideas to get you started:
 
 ![do-park's github stats](https://github-readme-stats.vercel.app/api?username=do-park&count_private=true&theme=dark&show_icons=true)
 
+           ████████
+          ███▄███████
+          ███████████
+          ███████████
+          ██████
+          █████████
+█       ███████
+██    ████████████
+███  ██████████  █
+███████████████
+███████████████
+ █████████████
+  ███████████
+    ████████
+     ███  ██
+     ██    █
+     █     █
+     ██    ██
+
 금오공과대학교 / 컴퓨터공학과
 
 삼성 청년 소프트웨어 아카데미(SSAFY) 3기
