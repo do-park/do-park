@@ -15,25 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-           ████████
-          ███▄███████
-          ███████████
-          ███████████
-          ██████
-          █████████
-█       ███████
-██    ████████████
-███  ██████████  █
-███████████████
-███████████████
- █████████████
-  ███████████
-    ████████
-     ███  ██
-     ██    █
-     █     █
-     ██    ██
-
 ![do-park's github stats](https://github-readme-stats.vercel.app/api?username=do-park&count_private=true&theme=dark&show_icons=true)
 
 금오공과대학교 / 컴퓨터공학과
