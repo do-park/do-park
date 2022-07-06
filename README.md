@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 삼성 청년 소프트웨어 아카데미(SSAFY) 3기
 
-APR 서비스사용성개선팀 프론트엔드 개발자
+APR 디지털플랫폼본부 프론트엔드개발팀
 
 - React with TypeScript
 - JavaScript
